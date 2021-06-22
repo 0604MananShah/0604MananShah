@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Manan 
-- 👀 I’m interested in coding, learning new tools 
-- 🌱 I’m currently learning jenkins, microservices 
-- 📫 How to reach me manan.shah403@gmail.com 
+- 👋 Hi, I’m Manan.
+- 👀 I’m interested in coding, learning new tools. 
+- 🌱 I’m currently learning jenkins and PCF. 
+- 📫 How to reach me manan.shah403@gmail.com.
 
 <!---
 0604MananShah/0604MananShah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
